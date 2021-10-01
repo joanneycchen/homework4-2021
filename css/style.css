@@ -93,6 +93,7 @@ td{
   
   text-transform: uppercase;
   background:#7e0825;
+  vertical-align: middle;
 
 
 }
@@ -146,3 +147,4 @@ footer{
   min-height: 75px;
   position:fixed;
 }
+
